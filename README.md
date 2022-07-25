@@ -1,6 +1,6 @@
 # Sergio Franco
 
-## ¿Who I am?
+## Who I am
 
 - Hi, I am Sergio Franco, a Systems Technique and Systems and Computing Engineering student at Universidad de los Andes.
 
