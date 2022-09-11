@@ -9,6 +9,6 @@ I am a Systems Technician, and Computer and Systems Engineering student at Unive
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sergiofranco11evidencias@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-%230077B5.svglogo=gmail&logoColor=white&color=red" />
+    <img src="[https://img.shields.io/badge/Mail-%230077B5.svglogo=gmail&logoColor=white&color=red](https://img.shields.io/badge/Mail-%230077B5.svg?logo=gmail&logoColor=white&color=red)" />
   </a>
 </p>
