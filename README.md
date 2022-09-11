@@ -2,7 +2,7 @@
 
 I am a Systems Technician, and Computer and Systems Engineering student at Universidad de los Andes. I have taken short and long courses in which I have been able to carry out different team projects. I am a self-taught person, with leadership, resilience and teamwork skills, proficient with Scrum methodologies. I engage with several conferences, hackathons and events to advance my professional career in the IT industry.
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/sergi0-franc0/">
     <img src="https://img.shields.io/static/v1?label=Linkedin&message=%20&color=blue&style=for-the-badge&logo=linkedin" />
   </a>
