@@ -7,6 +7,6 @@ I am a Systems Technician, and Computer and Systems Engineering student at Unive
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sergiofranco11evidencias@gmail.com">
-    <img src"![image](https://user-images.githubusercontent.com/88736607/189536781-6bf9153d-eddb-4c50-acf1-29d349c71fe8.png)"/>
+    <img src"https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=gmail&logoColor=white"/>
   </a>
 </p>
