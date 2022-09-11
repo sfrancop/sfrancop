@@ -1,37 +1,17 @@
 # Sergio Franco
 
-## Who I am
-
-- Hi, I am Sergio Franco, a Systems Technique and Systems and Computing Engineering student at Universidad de los Andes.
-
-- I have taken short and long courses in which I have been able to carry out different team projects.
-
-- I am a self-taught person, with leadership, resilience and teamwork.
-
-- I like to participate in conferences, hackathons and different events in the IT industry.
-
-- I am located in Bogota, Colombia.
-
-# My interests
-
-I am interested in data and web development. I am looking to collaborate on any type of projects in my field of interest.
-
-# More about me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sergi0-franc0/overlay/1635497598063/single-media-viewer/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/nolan/344/resume.png" alt="built with love badge" />
- </a>
-</p>
+I am a Systems Technician, and Computer and Systems Engineering student at Universidad de los Andes. I have taken short and long courses in which I have been able to carry out different team projects. I am a self-taught person, with leadership, resilience and teamwork skills, proficient with Scrum methodologies. I engage with several conferences, hackathons and events to advance my professional career in the IT industry.
 
 # Contact
 
-
-<p align="center">
-  <a href="mailto:sergiofranco11evidencias@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/nolan/344/gmail-new.png" alt="built with love badge" />
- </a>
-  <a href="https://www.linkedin.com/in/sergi0-franc0/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/nolan/344/linkedin.png" alt="built with love badge" />
- </a>
+<p align="right">
+  <a href="https://www.linkedin.com/in/sergi0-franc0/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/19126942/suman-shekhar">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/suman_shekhar_">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
+  </a>
 </p>
