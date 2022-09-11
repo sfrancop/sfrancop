@@ -8,10 +8,7 @@ I am a Systems Technician, and Computer and Systems Engineering student at Unive
   <a href="https://www.linkedin.com/in/sergi0-franc0/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/19126942/suman-shekhar">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/suman_shekhar_">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
+  <a href="mailto:sergiofranco11evidencias@gmail.com">
+    <img src="[https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white](https://img.shields.io/badge/Mail-%230077B5.svg    logo=gmail&logoColor=white&color=red)" />
   </a>
 </p>
