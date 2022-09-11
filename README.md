@@ -4,7 +4,7 @@ I am a Systems Technician, and Computer and Systems Engineering student at Unive
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sergi0-franc0/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=Linkedin&message=%20&color=blue&style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:sergiofranco11evidencias@gmail.com">
     <img src="https://img.shields.io/static/v1?label=Gmail&message=%20&color=red&style=for-the-badge&logo=gmail"/>
