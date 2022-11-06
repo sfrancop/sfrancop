@@ -1,6 +1,6 @@
-[
+{
   {
-    nombre: "hola",
-    descripción: "hola123"
+    "nombre": "hola",
+    "descripción": "hola123"
   }
-]
+}
