@@ -10,11 +10,13 @@
 
 ###
 
-<p align="left">✨ I am learning engineering since 2021.<br><br>🚀 As a personal project I am working on Roomatch, an application that arises from a real problem and moments of personal frustration. The target user is young people who move to a different city from the one they live for study or work, but who do not have enough budget to rent an apartment just for themselves. The idea is that these people can, from the beginning, through Roomatch, find roommates that fit with them in terms of personality and living habits, this, to save themselves the stress that I went through of cohabitation problems and constant moving.<br><br>💻 In my work, I am responsible of ensuring a good user experience, update the content of the pages of the Biomedical Engineering and Electrical and Electronic Engineering departments of University of Los Andes and meet the functional requirements.  I work transversally together with the team of laboratory technicians, coordinators, designers and communications managers.<br><br>📚 I'm currently learning about data science and its fundamentals like probability and statistics and continuously learning about software development.<br><br>🎯 My most important goal in my career is participating in important porjects as start-ups and the development of hight-impact websites for my university and country as the the website for the first laboratory in Colombia accredited to perform cytotoxicity tests.<br><br>🎲 Fun fact: when I am in my rest moments, I like to watch videos about programming and engineering.</p>
+<p align="left">✨ I am learning engineering since 2021 but since I was a child, I remember always being curious about how it works and is created everything that is not tangible but that we use every day called internet and computing. I am a Systems Technician and a Systems and Computer Engineering student. Apart from university studies, I have been involved in a variety of trainings that have allowed me to focus on Software Development and Data Science, along these trainings and experiences I have been able to have work approaches that strengthen both my technical and teamwork skills. I also like to participate in industry events such as hackathons and conferences.</p>
+
+<p align="left">💗 I am passionate about innovation and social change that is possible through technology, which is why I have been involved in purely social volunteering and technology startups that seek to solve a social problem. I aspire to reach large national and international companies and be an impact engineer on every project in which I get involved, so I am always open to new opportunities for my growth.</p>
 
 ###
 
-<h2 align="left">I make this happen with</h2>
+<h2 align="left">I make things happen with</h2>
 
 ###
 
