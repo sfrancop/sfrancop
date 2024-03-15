@@ -14,6 +14,16 @@
 
 <p align="left">💗 I am passionate about innovation and social change that is possible through technology, which is why I have been involved in purely social volunteering and technology startups that seek to solve a social problem. I aspire to reach large national and international companies and be an impact engineer on every project in which I get involved, so I am always open to new opportunities for my growth.</p>
 
+<p align="left">🚀 As a personal project I am working on Roomatch, an application that arises from a real problem and moments of personal frustration. The target user is young people who move to a different city from the one they live for study or work, but who do not have enough budget to rent an apartment just for themselves. The idea is that these people can, from the beginning, through Roomatch, find roommates that fit with them in terms of personality and living habits, this, to save themselves the stress that I went through of cohabitation problems and constant moving.</p>
+
+<p align="left">💻 In my work, I am responsible of ensuring a good user experience, update the content of the pages of the Biomedical Engineering and Electrical and Electronic Engineering departments of University of Los Andes and meet the functional requirements. I work transversally together with the team of laboratory technicians, coordinators, designers and communications managers.</p>
+
+<p align="left">📚 I'm currently learning about data science and its fundamentals like probability and statistics and continuously learning about software development.</p>
+
+<p align="left">🎯 My most important goal in my career is participating in important porjects as start-ups and the development of hight-impact websites for my university and country as the the website for the first laboratory in Colombia accredited to perform cytotoxicity tests.</p>
+
+<p align="left">🎲 Fun fact: when I am in my rest moments, I like to watch videos about programming and engineering.</p>
+
 ###
 
 <h2 align="left">I make things happen with</h2>
