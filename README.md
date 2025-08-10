@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sergio and I am a Software Engineer from Colombia and aspiring Data Scientist.</p>
+<p align="left">My name is Sergio and I am a Software Engineer from Colombia.</p>
 
 ###
 
